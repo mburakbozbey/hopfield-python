@@ -4,7 +4,8 @@
 **Plot:** the numbers in 10x10 grid by setting high (dark) and low(light) on the grid to visualize those numbers.  
 **Implement:** Hopfield algorithm given in the class.  
 
-## Procedure:  
+## Procedure:
+![Image](https://i.ibb.co/SK0vDXj/Ads-z.png)
 
 ## Implementation: 
 **Step 1:**  Numbers  1,2,3,4 and 5 were written with “X”s and dots. In this array of strings, dots represent null values and “X”s represents” parts of a given number. These 100 character transformed to 1 for “X” and -1 for dots. Initial look at numbers in 10x10 grid by setting high (dark) and low (light) on the grid to visualize those numbers.:
